@@ -16,7 +16,7 @@
 <tr>
   <td>Latest Development Version</td>
   <td>
-    <a href="https://github.com/akasolace/HO/releases/tag/dev">
+    <a href="https://github.com/brokenelevator/HO/releases/tag/dev">
     <img src="https://img.shields.io/badge/HO-DEV-red.svg" alt="latest development version" />
     </a>
   </td>
